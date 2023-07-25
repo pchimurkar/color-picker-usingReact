@@ -1,0 +1,9 @@
+.Home {
+  background-image: url("bg.jpg");
+  height: 810px;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+h1{
+    margin-bottom:30px;
+}

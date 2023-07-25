@@ -1,0 +1,17 @@
+.bigBox{
+   width: 350px;
+   height: 300px;
+   margin: auto;
+   margin-top: 20px;
+   background-color: bigBoxColor;
+   color: black;
+   border: 2px solid black;
+}
+.smallBox{
+    height: 40px;
+    width: 45px;
+    border-radius: 50%;
+    display: inline-block;
+    margin: 20px;
+    cursor: pointer;
+}
