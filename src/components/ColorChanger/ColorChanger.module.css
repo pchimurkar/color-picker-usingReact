@@ -4,7 +4,7 @@
    margin: auto;
    margin-top: 20px;
    background-color: bigBoxColor;
-   color: black;
+   border-radius: 22px 15px;
    border: 2px solid black;
 }
 .smallBox{
